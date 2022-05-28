@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hajra/AndroidStudioProjects/RoomReservationHotel/app/src/main/res/layout/activity_delete_rooms.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/hajra/AndroidStudioProjects/RoomReservationHotel/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/hajra/AndroidStudioProjects/RoomReservationHotel/app/src/main/res/layout/activity_menu_options.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/hajra/AndroidStudioProjects/RoomReservationHotel/app/src/main/res/layout/activity_payment_calculations.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/hajra/AndroidStudioProjects/RoomReservationHotel/app/src/main/res/layout/activity_read_room_status.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/hajra/AndroidStudioProjects/RoomReservationHotel/app/src/main/res/layout/activity_researve_room.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/hajra/AndroidStudioProjects/RoomReservationHotel/app/src/main/res/layout/activity_update_room.xml" value="0.21" />
+        <entry key="..\:/Users/hajra/AndroidStudioProjects/RoomReservationHotel/app/src/main/res/layout/room_list.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
